@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.foto{
+    width: 100%;
+    height: 780px;
+}
+
+.back {
+    position: absolute;
+    width: 100%;
+    top: 10px;
+    z-index: 3;
+}
+
+.tete{
+    width: 5%;
+}
+
+
+#new {
+    list-style-type: none;
+    display: flex;
+}
+#new li{
+    margin-right: 3%;
+}
+#new li a{
+    text-decoration: none;
+    color: white;
+
+}
+#new li a:hover{
+    color: gray;
+}
+
+.urban li a:hover {
+    background-color: aliceblue;
+    opacity: 80%;
+    border-radius: 13px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
+
+.mini:hover{
+    background-color: aliceblue;
+    opacity: 90%;
+    border-radius: 13px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
+
+.uus{
+    background-color: black;
+}
+.ooh li a:hover {
+    background-color: rgb(59, 59, 59);
+    opacity: 80%;
+    border-radius: 13px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
+    
+.lam:hover{
+    background-color: rgb(59, 59, 59);
+    opacity: 90%;
+    border-radius: 13px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
+.butt button:hover{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+.butt button{
+    background-color: black;
+    color: white;
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+    padding: 10px 50px;
+    font-size: medium;
+}
+.sign{
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    margin-top: 15px;
+    width: 40%;
+}
+.in{
+    margin-left: 5%;
+}
+.for{
+    margin-left: 7%;
+}
+.for a{
+    color: rgba(19, 18, 18, 0.808);
+    font-size: small;
+    text-decoration: underline;
+    
+}
+.for a:hover{
+    color: black;
+}
+.voll h3 a{
+    text-decoration: none;
+}
+.last{
+    display: flex;
+    font-size: 14px;
+    margin-top:25%;
+    color: gray;
+    
+}
+.aku:hover{
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.kau:hover{
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.kua:hover{
+    text-decoration: underline;
+    color: black;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
